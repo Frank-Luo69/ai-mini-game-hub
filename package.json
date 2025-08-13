@@ -15,7 +15,7 @@
     "react-dom": "18.2.0",
     "@supabase/supabase-js": "2.45.3",
     "@supabase/auth-ui-react": "0.4.7",
-    "@supabase/auth-ui-shared": "0.1.9",
+    "@supabase/auth-ui-shared": "0.1.7",
     "slugify": "1.6.6"
   },
   "devDependencies": {
